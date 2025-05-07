@@ -23,4 +23,4 @@ print(f(a,b))
 
 ## Result
 
-Thus the program to write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum is executed successfully.
+Thus the program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum is executed successfully.
