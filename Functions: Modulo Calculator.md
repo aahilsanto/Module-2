@@ -27,4 +27,4 @@ result(a,b)
 
 ## Result
 
-Thus the program to write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator is executed successfully.
+Thus the program that defines a function which accepts two values and returns their **modulo** using the `%` operator is executed successfully.
