@@ -21,4 +21,4 @@ print(b)
 
 ## Result
 
-Thus the program to write a Python program to convert the number **16** into its **binary representation** using built-in Python functions is executed successfully.
+Thus the program to convert the number **16** into its **binary representation** using built-in Python functions is executed successfully.
