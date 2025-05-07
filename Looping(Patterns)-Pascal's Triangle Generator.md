@@ -49,4 +49,4 @@ for i in range(a):
 
 ## Result
 
-Thus thr program to write a Python program that generates **Pascal's Triangle** using numbers is executed successfully.
+Thus the program that generates **Pascal's Triangle** using numbers is executed successfully.
