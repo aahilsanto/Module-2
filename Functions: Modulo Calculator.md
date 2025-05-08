@@ -15,10 +15,11 @@ To write a Python program that defines a function which accepts two values and r
 ```
 def result(a,b):
   m=a%b 
-  print(f"modulo is {m}") 
+  print(f"modulo is {m}")
+ 
 a = int(input()) 
 b = int(input())
-result(a,b)
+
 ```
 
 ## Output
